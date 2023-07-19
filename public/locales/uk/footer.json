@@ -1,0 +1,68 @@
+{
+    "buttons": {
+        "brief": {
+            "text": "Бриф на розробку проєкту",
+            "url": "/brief"
+        }
+    },
+    "services": {
+        "title": "Послуги",
+        "item": [
+            {
+                "text": "Створення сайтів"
+            },
+            {
+                "text": "Дизайн сайтів"
+            },
+            {
+                "text": "Створення інтернет-магазинів"
+            },
+            {
+                "text": "Підтримка та супровід проєктів"
+            },
+            {
+                "text": "Редизайн сайтів"
+            }
+        ]
+    },
+    "menu": {
+        "title": "Меню",
+        "item": [
+            {
+                "text": "Наші послуги",
+                "url": "/services"
+            },
+            {
+                "text": "Портфоліо",
+                "url": "/portfolio"
+            },
+            {
+                "text": "Контакти",
+                "url": "/contacts"
+            }
+        ]
+    },
+    "contacts": {
+        "title": "Контакти",
+        "phone": "+380979769625",
+        "email": "services@softryzen.com"
+    },
+    "social": {
+        "linkedin": {
+            "url": "https://www.linkedin.com/company/softryzen/",
+            "label": "Посилання на Linkedin"
+        },
+        "instagram": {
+            "url": "https://www.instagram.com/softryzen/",
+            "label": "Посилання на Instagram"
+        },
+        "behance": {
+            "url": "https://www.behance.net/softryzen",
+            "label": "Посилання на Behance"
+        },
+        "telegram": {
+            "url": "https://t.me/maksym_kozlov",
+            "label": "Посилання на Telegram"
+        }
+    }
+}

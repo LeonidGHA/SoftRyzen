@@ -1,0 +1,71 @@
+{
+    "serviceCards": {
+        "title": "",
+        "link": "",
+        "services": [
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", "", "", ""],
+                "number": "001"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description":"",
+                "subservices": ["", "", "", "", ""],
+                "number": "002"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", ""],
+                "number": "003"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", ""],
+                "number": "004"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", "", "", ""],
+                "number": "005"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", ""],
+                "number": "006"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", "", "", ""],
+                "number": "007"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": [],
+                "number": "008"
+            },
+            {
+                "title": "",
+                "overview": "",
+                "description": "",
+                "subservices": ["", "", "", "", ""],
+                "number": "009"
+            }
+        ]
+    }
+}

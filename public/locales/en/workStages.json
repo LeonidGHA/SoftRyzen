@@ -1,0 +1,35 @@
+{
+    "title": "",
+    "description": "",
+    "stages": {
+        "briefing": {
+            "title": "",
+            "text": ""
+        },
+        "prototyping": {
+            "title": "",
+            "text": ""
+        },
+        "designCreation": {
+            "title": "",
+            "text": ""
+        },
+        "projectDevelopment": {
+            "title": "",
+            "text": ""
+        },
+        "contentFilling": {
+            "title": "",
+            "text": ""
+        },
+        "testing": {
+            "title": "",
+            "text": ""
+        },
+        "projectDelivery": {
+            "title": "",
+            "text": ""
+        }
+    },
+    "link": "" 
+}

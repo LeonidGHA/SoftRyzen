@@ -1,0 +1,27 @@
+{
+  "nav": [
+    {
+      "name": "Послуги",
+      "url": "/services"
+    },
+    {
+      "name": "Портфоліо",
+      "url": "/portfolio"
+    },
+    {
+      "name": "Контакти",
+      "url": "/contacts"
+    }
+  ],
+  "buttons": {
+    "mobileMenu": {
+      "label": {
+        "open": "Відкрити мобільне меню",
+        "close": "Закрити мобільне меню"
+      }
+    },
+    "contact": {
+      "text": "Зв’язатись"
+    }
+  }
+}

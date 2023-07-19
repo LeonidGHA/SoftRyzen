@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "text": "",
+  "text2": "",
+  "links": {
+    "emailLink": {
+      "url": "mailto:services@softryzen.com",
+      "text": "services@softryzen.com"
+    },
+    "telegramLink": {
+      "url": "https://telegram.org/",
+      "text": "@maksym_kozlov"
+    },
+    "phoneLink": {
+      "url": "tel:+380979769625",
+      "text": "+380979769625"
+    }
+  }
+}

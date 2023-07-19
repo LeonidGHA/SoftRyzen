@@ -1,0 +1,357 @@
+{
+  "title": "Технології",
+  "technologiesArray":[
+    {
+      "name":"figma",
+      "icon_dark":
+        {
+          "src":"/images/technologies/figma.svg",
+          "alt": "іконка figma технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/figma-color.svg",
+          "alt": "кольорова іконка figma технології"
+        }
+    },
+    {
+      "name":"ps",
+      "icon_dark":
+        {
+          "src":"/images/technologies/ps.svg",
+          "alt": "іконка ps технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/ps-color.svg",
+          "alt": "кольорова іконка ps технології"
+        }
+    },
+    {
+      "name":"ai",
+      "icon_dark":
+        {
+          "src":"/images/technologies/ai.svg",
+          "alt": "іконка ai технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/ai-color.svg",
+          "alt": "кольорова іконка ai технології"
+        }
+    },
+    {
+      "name":"js",
+      "icon_dark":
+        {
+          "src":"/images/technologies/js.svg",
+          "alt": "іконка js технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/js-color.svg",
+          "alt": "кольорова іконка js технології"
+        }
+    },
+    {
+      "name":"html",
+      "icon_dark":
+        {
+          "src":"/images/technologies/html.svg",
+          "alt": "іконка html технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/html-color.svg",
+          "alt": "кольорова іконка html технології"
+        }
+    },
+    {
+      "name":"css",
+      "icon_dark":
+        {
+          "src":"/images/technologies/css.svg",
+          "alt": "іконка css технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/css-color.svg",
+          "alt": "кольорова іконка css технології"
+        }
+    },
+    {
+      "name":"sql",
+      "icon_dark":
+        {
+          "src":"/images/technologies/sql.svg",
+          "alt": "іконка sql технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/sql-color.svg",
+          "alt": "кольорова іконка sql технології"
+        }
+    },
+    {
+      "name":"next",
+      "icon_dark":
+        {
+          "src":"/images/technologies/next.svg",
+          "alt": "іконка next технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/next-color.svg",
+          "alt": "кольорова іконка next технології"
+        }
+    },
+    {
+      "name":"mysql",
+      "icon_dark":
+        {
+          "src":"/images/technologies/mysql.svg",
+          "alt": "іконка mysql технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/mysql-color.svg",
+          "alt": "кольорова іконка mysql технології"
+        }
+    },
+    {
+      "name":"bootstrap",
+      "icon_dark":
+        {
+          "src":"/images/technologies/bootstrap.svg",
+          "alt": "іконка bootstrap технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/bootstrap-color.svg",
+          "alt": "кольорова іконка bootstrap технології"
+        }
+    },
+    {
+      "name":"postgresql",
+      "icon_dark":
+        {
+          "src":"/images/technologies/postgresql.svg",
+          "alt": "іконка postgresql технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/postgresql-color.svg",
+          "alt": "кольорова іконка postgresql технології"
+        }
+    },
+    {
+      "name":"gulp",
+      "icon_dark":
+        {
+          "src":"/images/technologies/gulp.svg",
+          "alt": "іконка gulp технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/gulp-color.svg",
+          "alt": "кольорова іконка gulp технології"
+        }
+    },
+    {
+      "name":"jquery",
+      "icon_dark":
+        {
+          "src":"/images/technologies/jquery.svg",
+          "alt": "іконка jquery технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/jquery-color.svg",
+          "alt": "кольорова іконка jquery технології"
+        }
+    },
+    {
+      "name":"sass",
+      "icon_dark":
+        {
+          "src":"/images/technologies/sass.svg",
+          "alt": "іконка sass технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/sass-color.svg",
+          "alt": "кольорова іконка sass технології"
+        }
+    },
+    {
+      "name":"react",
+      "icon_dark":
+        {
+          "src":"/images/technologies/react.svg",
+          "alt": "іконка react технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/react-color.svg",
+          "alt": "кольорова іконка react технології"
+        }
+    },
+    {
+      "name":"webpack",
+      "icon_dark":
+        {
+          "src":"/images/technologies/webpack.svg",
+          "alt": "іконка webpack технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/webpack-color.svg",
+          "alt": "кольорова іконка webpack технології"
+        }
+    },
+    {
+      "name":"laravel",
+      "icon_dark":
+        {
+          "src":"/images/technologies/laravel.svg",
+          "alt": "іконка laravel технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/laravel-color.svg",
+          "alt": "кольорова іконка laravel технології"
+        }
+    },
+    {
+      "name":"google ads",
+      "icon_dark":
+        {
+          "src":"/images/technologies/google_ads.svg",
+          "alt": "іконка google ads технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/google_ads-color.svg",
+          "alt": "кольорова іконка google ads технології"
+        }
+    },
+    {
+      "name":"redux",
+      "icon_dark":
+        {
+          "src":"/images/technologies/redux.svg",
+          "alt": "іконка redux технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/redux-color.svg",
+          "alt": "кольорова іконка redux технології"
+        }
+    },
+    {
+      "name":"mongodb",
+      "icon_dark":
+        {
+          "src":"/images/technologies/mongodb.svg",
+          "alt": "іконка mongodb технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/mongodb-color.svg",
+          "alt": "кольорова іконка mongodb технології"
+        }
+    },
+    {
+      "name":"nginx",
+      "icon_dark":
+        {
+          "src":"/images/technologies/nginx.svg",
+          "alt": "іконка nginx технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/nginx-color.svg",
+          "alt": "кольорова іконка nginx технології"
+        }
+    },
+    {
+      "name":"firebase",
+      "icon_dark":
+        {
+          "src":"/images/technologies/firebase.svg",
+          "alt": "іконка firebase технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/firebase-color.svg",
+          "alt": "кольорова іконка firebase технології"
+        }
+    },
+    {
+      "name":"jenkins",
+      "icon_dark":
+        {
+          "src":"/images/technologies/jenkins.svg",
+          "alt": "іконка jenkins технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/jenkins-color.svg",
+          "alt": "кольорова іконка jenkins технології"
+        }
+    },
+    {
+      "name":"apache",
+      "icon_dark":
+        {
+          "src":"/images/technologies/apache.svg",
+          "alt": "іконка apache технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/apache-color.svg",
+          "alt": "кольорова іконка apache технології"
+        }
+    },
+    {
+      "name":"docker",
+      "icon_dark":
+        {
+          "src":"/images/technologies/docker.svg",
+          "alt": "іконка docker технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/docker-color.svg",
+          "alt": "кольорова іконка docker технології"
+        }
+    },
+    {
+      "name":"git",
+      "icon_dark":
+        {
+          "src":"/images/technologies/git.svg",
+          "alt": "іконка git технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/git-color.svg",
+          "alt": "кольорова іконка git технології"
+        }
+    },
+    {
+      "name":"node",
+      "icon_dark":
+        {
+          "src":"/images/technologies/node.svg",
+          "alt": "іконка node технології"
+        },
+      "icon_color":
+        {
+          "src":"/images/technologies/node-color.svg",
+          "alt": "кольорова іконка node технології"
+        }
+    }
+    
+  ]
+}

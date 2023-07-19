@@ -1,0 +1,39 @@
+{
+    "projects": [
+        {
+            "name": "coffeeHouse",
+            "title": "",
+            "text": "",
+            "link": "coffee-house",
+            "imageVersion": ""
+        },
+        {
+            "name": "interiorDesign",
+            "title": "",
+            "text": "",
+            "link": "interior-design",
+            "imageVersion": ""
+        },
+        {
+            "name": "storeMigrogreen",
+            "title": "",
+            "text": "",
+            "link": "store-migrogreen",
+            "imageVersion": ""
+        },
+        {
+            "name": "pharmCompany",
+            "title": "",
+            "text": "",
+            "link": "pharm-company",
+            "imageVersion": ""
+        },
+        {
+            "name": "exteriorVisualization",
+            "title": "",
+            "text": "",
+            "link": "exterior-visualization",
+            "imageVersion": ""
+        }
+    ]
+}

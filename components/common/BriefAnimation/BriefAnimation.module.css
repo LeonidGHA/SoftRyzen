@@ -1,0 +1,941 @@
+.firstCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite firstCube-mobile;
+}
+.secondCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite secondCube-mobile;
+}
+.thirdCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite thirdCube-mobile;
+}
+.fourthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite fourthCube-mobile;
+}
+.fifthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite fifthCube-mobile;
+}
+.sixthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite sixthCube-mobile;
+}
+.seventhCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite seventhCube-mobile;
+}
+.eighthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite eighthCube-mobile;
+}
+.ninthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite ninthCube-mobile;
+}
+.tenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite tenthCube-mobile;
+}
+.eleventhCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite eleventhCube-mobile;
+}
+.twelfthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite twelfthCube-mobile;
+}
+.thirteenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite thirteenthCube-mobile;
+}
+.fourteenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite fourteenthCube-mobile;
+}
+.fifteenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite fifteenthCube-mobile;
+}
+.sixteenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite sixteenthCube-mobile;
+}
+.seventeenthCube {
+  z-index: 2;
+  animation: 8800ms ease-out infinite seventeenthCube-mobile;
+}
+
+@media screen and (min-width: 768px) {
+  .firstCube {
+    animation: 8800ms ease-out infinite firstCube-tablet;
+  }
+  .secondCube {
+    animation: 8800ms ease-out infinite secondCube-tablet;
+  }
+  .thirdCube {
+    animation: 8800ms ease-out infinite thirdCube-tablet;
+  }
+  .fourthCube {
+    animation: 8800ms ease-out infinite fourthCube-tablet;
+  }
+  .fifthCube {
+    animation: 8800ms ease-out infinite fifthCube-tablet;
+  }
+  .sixthCube {
+    animation: 8800ms ease-out infinite sixthCube-tablet;
+  }
+  .seventhCube {
+    animation: 8800ms ease-out infinite seventhCube-tablet;
+  }
+  .eighthCube {
+    animation: 8800ms ease-out infinite eighthCube-tablet;
+  }
+  .ninthCube {
+    animation: 8800ms ease-out infinite ninthCube-tablet;
+  }
+  .tenthCube {
+    animation: 8800ms ease-out infinite tenthCube-tablet;
+  }
+  .eleventhCube {
+    animation: 8800ms ease-out infinite eleventhCube-tablet;
+  }
+  .twelfthCube {
+    animation: 8800ms ease-out infinite twelfthCube-tablet;
+  }
+  .thirteenthCube {
+    animation: 8800ms ease-out infinite thirteenthCube-tablet;
+  }
+  .fourteenthCube {
+    animation: 8800ms ease-out infinite fourteenthCube-tablet;
+  }
+  .fifteenthCube {
+    animation: 8800ms ease-out infinite fifteenthCube-tablet;
+  }
+  .sixteenthCube {
+    animation: 8800ms ease-out infinite sixteenthCube-tablet;
+  }
+  .seventeenthCube {
+    animation: 8800ms ease-out infinite seventeenthCube-tablet;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .firstCube {
+    animation: 8800ms ease-out infinite firstCube-desktop;
+  }
+  .secondCube {
+    animation: 8800ms ease-out infinite secondCube-desktop;
+  }
+  .thirdCube {
+    animation: 8800ms ease-out infinite thirdCube-desktop;
+  }
+  .fourthCube {
+    animation: 8800ms ease-out infinite fourthCube-desktop;
+  }
+  .fifthCube {
+    animation: 8800ms ease-out infinite fifthCube-desktop;
+  }
+  .sixthCube {
+    animation: 8800ms ease-out infinite sixthCube-desktop;
+  }
+  .seventhCube {
+    animation: 8800ms ease-out infinite seventhCube-desktop;
+  }
+  .eighthCube {
+    animation: 8800ms ease-out infinite eighthCube-desktop;
+  }
+  .ninthCube {
+    animation: 8800ms ease-out infinite ninthCube-desktop;
+  }
+  .tenthCube {
+    animation: 8800ms ease-out infinite tenthCube-desktop;
+  }
+  .eleventhCube {
+    animation: 8800ms ease-out infinite eleventhCube-desktop;
+  }
+  .twelfthCube {
+    animation: 8800ms ease-out infinite twelfthCube-desktop;
+  }
+  .thirteenthCube {
+    animation: 8800ms ease-out infinite thirteenthCube-desktop;
+  }
+  .fourteenthCube {
+    animation: 8800ms ease-out infinite fourteenthCube-desktop;
+  }
+  .fifteenthCube {
+    animation: 8800ms ease-out infinite fifteenthCube-desktop;
+  }
+  .sixteenthCube {
+    animation: 8800ms ease-out infinite sixteenthCube-desktop;
+  }
+  .seventeenthCube {
+    animation: 8800ms ease-out infinite seventeenthCube-desktop;
+  }
+}
+
+@keyframes firstCube-mobile {
+  6% {
+    top: 154px;
+  }
+  45% {
+    top: 375px;
+  }
+  56% {
+    top: 375px;
+  }
+  95% {
+    top: 154px;
+  }
+}
+
+@keyframes secondCube-mobile {
+  6% {
+    bottom: 37px;
+  }
+  45% {
+    bottom: 259px;
+  }
+  56% {
+    bottom: 259px;
+  }
+  95% {
+    bottom: 37px;
+  }
+}
+
+@keyframes thirdCube-mobile {
+  6% {
+    top: 150px;
+  }
+  45% {
+    top: 314px;
+  }
+  56% {
+    top: 314px;
+  }
+  95% {
+    top: 150px;
+  }
+}
+
+@keyframes fourthCube-mobile {
+  6% {
+    bottom: 112px;
+  }
+  45% {
+    bottom: 382px;
+  }
+  56% {
+    bottom: 382px;
+  }
+  95% {
+    bottom: 112px;
+  }
+}
+
+@keyframes fifthCube-mobile {
+  6% {
+    bottom: 37px;
+  }
+  45% {
+    bottom: 314px;
+  }
+  56% {
+    bottom: 314px;
+  }
+  95% {
+    bottom: 37px;
+  }
+}
+
+@keyframes sixthCube-mobile {
+  6% {
+    top: 93px;
+  }
+  45% {
+    top: 8px;
+  }
+  56% {
+    top: 8px;
+  }
+  95% {
+    top: 93px;
+  }
+}
+
+@keyframes seventhCube-mobile {
+  6% {
+    bottom: 15px;
+  }
+  45% {
+    bottom: 212px;
+  }
+  56% {
+    bottom: 212px;
+  }
+  95% {
+    bottom: 15px;
+  }
+}
+
+@keyframes eighthCube-mobile {
+  6% {
+    top: 257px;
+  }
+  45% {
+    top: 344px;
+  }
+  56% {
+    top: 344px;
+  }
+  95% {
+    top: 257px;
+  }
+}
+
+@keyframes ninthCube-mobile {
+  6% {
+    bottom: 37px;
+  }
+  45% {
+    bottom: 314px;
+  }
+  56% {
+    bottom: 314px;
+  }
+  95% {
+    bottom: 37px;
+  }
+}
+
+@keyframes tenthCube-mobile {
+  6% {
+    top: 38px;
+  }
+  45% {
+    top: 126px;
+  }
+  56% {
+    top: 126px;
+  }
+  95% {
+    top: 38px;
+  }
+}
+
+@keyframes eleventhCube-mobile {
+  6% {
+    top: 115px;
+  }
+  45% {
+    top: 28px;
+  }
+  56% {
+    top: 28px;
+  }
+  95% {
+    top: 115px;
+  }
+}
+
+@keyframes twelfthCube-mobile {
+  6% {
+    bottom: 147px;
+  }
+  45% {
+    bottom: 27px;
+  }
+  56% {
+    bottom: 27px;
+  }
+  95% {
+    bottom: 147px;
+  }
+}
+
+@keyframes thirteenthCube-mobile {
+  6% {
+    top: 197px;
+  }
+  45% {
+    top: 339px;
+  }
+  56% {
+    top: 339px;
+  }
+  95% {
+    top: 197px;
+  }
+}
+
+@keyframes fourteenthCube-mobile {
+  6% {
+    top: 33px;
+  }
+  45% {
+    top: 264px;
+  }
+  56% {
+    top: 264px;
+  }
+  95% {
+    top: 33px;
+  }
+}
+
+@keyframes fifteenthCube-mobile {
+  6% {
+    top: 128px;
+  }
+  45% {
+    top: 171px;
+  }
+  56% {
+    top: 171px;
+  }
+  95% {
+    top: 128px;
+  }
+}
+
+@keyframes sixteenthCube-mobile {
+  6% {
+    top: 209px;
+  }
+  45% {
+    top: 358px;
+  }
+  56% {
+    top: 358px;
+  }
+  95% {
+    top: 209px;
+  }
+}
+
+@keyframes seventeenthCube-mobile {
+  6% {
+    bottom: 75px;
+  }
+  45% {
+    bottom: 332px;
+  }
+  56% {
+    bottom: 332px;
+  }
+  95% {
+    bottom: 75px;
+  }
+}
+
+@keyframes firstCube-tablet {
+  6% {
+    top: 303px;
+  }
+  45% {
+    top: 737px;
+  }
+  56% {
+    top: 737px;
+  }
+  95% {
+    top: 303px;
+  }
+}
+
+@keyframes secondCube-tablet {
+  6% {
+    bottom: 74px;
+  }
+  45% {
+    bottom: 510px;
+  }
+  56% {
+    bottom: 510px;
+  }
+  95% {
+    bottom: 74px;
+  }
+}
+
+@keyframes thirdCube-tablet {
+  6% {
+    top: 296px;
+  }
+  45% {
+    top: 618px;
+  }
+  56% {
+    top: 618px;
+  }
+  95% {
+    top: 296px;
+  }
+}
+
+@keyframes fourthCube-tablet {
+  6% {
+    bottom: 222px;
+  }
+  45% {
+    bottom: 753px;
+  }
+  56% {
+    bottom: 753px;
+  }
+  95% {
+    bottom: 222px;
+  }
+}
+
+@keyframes fifthCube-tablet {
+  6% {
+    bottom: 74px;
+  }
+  45% {
+    bottom: 618px;
+  }
+  56% {
+    bottom: 618px;
+  }
+  95% {
+    bottom: 74px;
+  }
+}
+
+@keyframes sixthCube-tablet {
+  6% {
+    top: 186px;
+  }
+  45% {
+    top: 16px;
+  }
+  56% {
+    top: 16px;
+  }
+  95% {
+    top: 186px;
+  }
+}
+
+@keyframes seventhCube-tablet {
+  6% {
+    bottom: 29px;
+  }
+  45% {
+    bottom: 418px;
+  }
+  56% {
+    bottom: 418px;
+  }
+  95% {
+    bottom: 29px;
+  }
+}
+
+@keyframes eighthCube-tablet {
+  6% {
+    top: 509px;
+  }
+  45% {
+    top: 677px;
+  }
+  56% {
+    top: 677px;
+  }
+  95% {
+    top: 509px;
+  }
+}
+
+@keyframes ninthCube-tablet {
+  6% {
+    bottom: 74px;
+  }
+  45% {
+    bottom: 618px;
+  }
+  56% {
+    bottom: 618px;
+  }
+  95% {
+    bottom: 74px;
+  }
+}
+
+@keyframes tenthCube-tablet {
+  6% {
+    top: 76px;
+  }
+  45% {
+    top: 247px;
+  }
+  56% {
+    top: 247px;
+  }
+  95% {
+    top: 76px;
+  }
+}
+
+@keyframes eleventhCube-tablet {
+  6% {
+    top: 228px;
+  }
+  45% {
+    top: 55px;
+  }
+  56% {
+    top: 55px;
+  }
+  95% {
+    top: 228px;
+  }
+}
+
+@keyframes twelfthCube-tablet {
+  6% {
+    bottom: 290px;
+  }
+  45% {
+    bottom: 54px;
+  }
+  56% {
+    bottom: 54px;
+  }
+  95% {
+    bottom: 290px;
+  }
+}
+
+@keyframes thirteenthCube-tablet {
+  6% {
+    top: 394px;
+  }
+  45% {
+    top: 668px;
+  }
+  56% {
+    top: 668px;
+  }
+  95% {
+    top: 394px;
+  }
+}
+
+@keyframes fourteenthCube-tablet {
+  6% {
+    top: 66px;
+  }
+  45% {
+    top: 520px;
+  }
+  56% {
+    top: 520px;
+  }
+  95% {
+    top: 66px;
+  }
+}
+
+@keyframes fifteenthCube-tablet {
+  6% {
+    top: 252px;
+  }
+  45% {
+    top: 337px;
+  }
+  56% {
+    top: 337px;
+  }
+  95% {
+    top: 252px;
+  }
+}
+
+@keyframes sixteenthCube-tablet {
+  6% {
+    top: 445px;
+  }
+  45% {
+    top: 705px;
+  }
+  56% {
+    top: 705px;
+  }
+  95% {
+    top: 445px;
+  }
+}
+
+@keyframes seventeenthCube-tablet {
+  6% {
+    bottom: 157px;
+  }
+  45% {
+    bottom: 653px;
+  }
+  56% {
+    bottom: 653px;
+  }
+  95% {
+    bottom: 157px;
+  }
+}
+
+@keyframes firstCube-desktop {
+  6% {
+    top: 282px;
+  }
+  45% {
+    top: 686px;
+  }
+  56% {
+    top: 686px;
+  }
+  95% {
+    top: 282px;
+  }
+}
+
+@keyframes secondCube-desktop {
+  6% {
+    bottom: 68px;
+  }
+  45% {
+    bottom: 474px;
+  }
+  56% {
+    bottom: 474px;
+  }
+  95% {
+    bottom: 68px;
+  }
+}
+
+@keyframes thirdCube-desktop {
+  6% {
+    top: 275px;
+  }
+  45% {
+    top: 574px;
+  }
+  56% {
+    top: 574px;
+  }
+  95% {
+    top: 275px;
+  }
+}
+
+@keyframes fourthCube-desktop {
+  6% {
+    bottom: 205px;
+  }
+  45% {
+    bottom: 700px;
+  }
+  56% {
+    bottom: 700px;
+  }
+  95% {
+    bottom: 205px;
+  }
+}
+
+@keyframes fifthCube-desktop {
+  6% {
+    bottom: 68px;
+  }
+  45% {
+    bottom: 574px;
+  }
+  56% {
+    bottom: 574px;
+  }
+  95% {
+    bottom: 68px;
+  }
+}
+
+@keyframes sixthCube-desktop {
+  6% {
+    top: 171px;
+  }
+  45% {
+    top: 15px;
+  }
+  56% {
+    top: 15px;
+  }
+  95% {
+    top: 171px;
+  }
+}
+
+@keyframes seventhCube-desktop {
+  6% {
+    bottom: 27px;
+  }
+  45% {
+    bottom: 389px;
+  }
+  56% {
+    bottom: 389px;
+  }
+  95% {
+    bottom: 27px;
+  }
+}
+
+@keyframes eighthCube-desktop {
+  6% {
+    top: 470px;
+  }
+  45% {
+    top: 630px;
+  }
+  56% {
+    top: 630px;
+  }
+  95% {
+    top: 470px;
+  }
+}
+
+@keyframes ninthCube-desktop {
+  6% {
+    bottom: 68px;
+  }
+  45% {
+    bottom: 574px;
+  }
+  56% {
+    bottom: 574px;
+  }
+  95% {
+    bottom: 68px;
+  }
+}
+
+@keyframes tenthCube-desktop {
+  6% {
+    top: 70px;
+  }
+  45% {
+    top: 230px;
+  }
+  56% {
+    top: 230px;
+  }
+  95% {
+    top: 70px;
+  }
+}
+
+@keyframes eleventhCube-desktop {
+  6% {
+    top: 211px;
+  }
+  45% {
+    top: 51px;
+  }
+  56% {
+    top: 51px;
+  }
+  95% {
+    top: 211px;
+  }
+}
+
+@keyframes twelfthCube-desktop {
+  6% {
+    bottom: 270px;
+  }
+  45% {
+    bottom: 50px;
+  }
+  56% {
+    bottom: 50px;
+  }
+  95% {
+    bottom: 270px;
+  }
+}
+
+@keyframes thirteenthCube-desktop {
+  6% {
+    top: 361px;
+  }
+  45% {
+    top: 621px;
+  }
+  56% {
+    top: 621px;
+  }
+  95% {
+    top: 361px;
+  }
+}
+
+@keyframes fourteenthCube-desktop {
+  6% {
+    top: 61px;
+  }
+  45% {
+    top: 484px;
+  }
+  56% {
+    top: 484px;
+  }
+  95% {
+    top: 61px;
+  }
+}
+
+@keyframes fifteenthCube-desktop {
+  6% {
+    top: 234px;
+  }
+  45% {
+    top: 314px;
+  }
+  56% {
+    top: 314px;
+  }
+  95% {
+    top: 234px;
+  }
+}
+
+@keyframes sixteenthCube-desktop {
+  6% {
+    top: 386px;
+  }
+  45% {
+    top: 656px;
+  }
+  56% {
+    top: 656px;
+  }
+  95% {
+    top: 386px;
+  }
+}
+
+@keyframes seventeenthCube-desktop {
+  6% {
+    bottom: 137px;
+  }
+  45% {
+    bottom: 607px;
+  }
+  56% {
+    bottom: 607px;
+  }
+  95% {
+    bottom: 137px;
+  }
+}

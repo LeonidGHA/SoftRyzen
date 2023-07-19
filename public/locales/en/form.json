@@ -1,0 +1,34 @@
+{
+    "input": {
+      "name": {
+        "title": "",
+        "requiredError": "",
+        "patternError": "",
+        "minLengthError": "",
+        "maxLengthError": "",
+        "placeholder": ""
+      },
+      "email": {
+        "title": "",
+        "requiredError": "",
+        "patternError": "",
+        "placeholder": ""
+      },
+      "info": {
+        "title": "",
+        "requiredError": "",
+        "patternError": "",
+        "minLengthError": "",
+        "maxLengthError": "",
+        "placeholder": ""
+      },
+      "checkbox": {
+        "requiredError": "",
+        "text": ""
+      },
+      "button": {
+        "idle": "",
+        "pending": ""
+      }
+    }
+}

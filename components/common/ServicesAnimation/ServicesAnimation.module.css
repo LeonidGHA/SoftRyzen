@@ -1,0 +1,136 @@
+.services_hero {
+  left: calc(50% + 122px);
+}
+
+.text {
+  position: absolute;
+  color: rgba(214, 223, 230, 0.4);
+  animation: opacityAnimation 1.5s linear infinite alternate;
+}
+.text_white {
+  position: absolute;
+  color: #d6dfe6;
+  animation: opacityAnimation 1.5s linear infinite alternate;
+}
+.text_first {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 45.49%,
+    rgba(214, 223, 230, 0) 103.59%
+  );
+}
+.text_second {
+  background: linear-gradient(
+    269.79deg,
+    rgba(214, 223, 230, 0.4) 35.6%,
+    rgba(214, 223, 230, 0) 109.73%
+  );
+}
+.text_third {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 26.81%,
+    rgba(214, 223, 230, 0) 105.77%
+  );
+}
+.text_fourth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 35.59%,
+    rgba(214, 223, 230, 0) 106.93%
+  );
+}
+.text_fifth {
+  background: linear-gradient(
+    269.98deg,
+    rgba(214, 223, 230, 0.4) 55.04%,
+    rgba(214, 223, 230, 0) 100.01%
+  );
+}
+.text_sixth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 62.42%,
+    rgba(214, 223, 230, 0) 104.74%
+  );
+}
+.text_seventh {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 56.43%,
+    rgba(214, 223, 230, 0) 106.08%
+  );
+}
+.text_ninth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) -0.26%,
+    rgba(214, 223, 230, 0) 111.99%
+  );
+}
+.text_tenth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 2.52%,
+    rgba(214, 223, 230, 0) 109.87%
+  );
+}
+.text_eleventh {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 4.14%,
+    rgba(214, 223, 230, 0) 116.57%
+  );
+}
+.text_twelfth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 2.8%,
+    rgba(214, 223, 230, 0) 111.48%
+  );
+}
+.text_thirteenth {
+  background: linear-gradient(
+    270deg,
+    rgba(214, 223, 230, 0.4) 4.49%,
+    rgba(214, 223, 230, 0) 114.67%
+  );
+}
+
+.text_first,
+.text_second,
+.text_third,
+.text_fourth,
+.text_fifth,
+.text_sixth,
+.text_seventh,
+.text_ninth,
+.text_tenth,
+.text_eleventh,
+.text_twelfth,
+.text_thirteenth {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text_second_word:nth-child(2) {
+  animation: whiteWord 1.5s linear infinite alternate;
+}
+
+@keyframes opacityAnimation {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes whiteWord {
+  0% {
+    color: #d6dfe6;
+  }
+  100% {
+    color: #d6dfe666;
+  }
+}

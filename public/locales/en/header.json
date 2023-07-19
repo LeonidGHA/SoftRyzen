@@ -1,0 +1,24 @@
+{
+    "nav": [
+        {
+            "name": "About",
+            "url": "/about"
+        },
+        {
+            "name": "Services",
+            "url": "/services"
+        },
+        {
+            "name": "Portfolio",
+            "url": "/portfolio"
+        },
+        {
+            "name": "Reviews",
+            "url": "/reviews"
+        },
+        {
+            "name": "Contact",
+            "url": "/contacts"
+        }
+    ]
+}

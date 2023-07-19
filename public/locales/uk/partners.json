@@ -1,0 +1,33 @@
+{
+  "title": "Нам довіряють",
+  "companies": [
+    {
+      "company": "GoIT",
+      "iconPath": "/images/partners/goit.svg"
+    },
+    {
+      "company": "Мікрохім",
+      "iconPath": "/images/partners/mikrohim.svg"
+    },
+    {
+      "company": "Jazzrender",
+      "iconPath": "/images/partners/jazz-render.svg"
+    },
+    {
+      "company": "8allocate",
+      "iconPath": "/images/partners/8allocate.svg"
+    },
+    {
+      "company": "Go ITeens",
+      "iconPath": "/images/partners/goiteens.svg"
+    },
+    {
+      "company": "Powerkh",
+      "iconPath": "/images/partners/powerkh.svg"
+    },
+    {
+      "company": "Webnauts",
+      "iconPath": "/images/partners/webnauts.svg"
+    }
+  ]
+}

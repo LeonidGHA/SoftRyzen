@@ -1,0 +1,85 @@
+{
+    "titleHomePage": "Роботи, якими ми пишаємось",
+    "titlePortfolioPage": "Наші роботи",
+    "worksHomePage": [
+        {
+            "title": "Головний сайт GoIT Global",
+            "text": "Розробка багатосторінкового сайта компанії  GoIT Group  з декількома іноземними локалями.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275540/SoftRyzen/GoIT/portfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/goit"
+        },
+        {
+            "title": "Редизайн сайту фармкомпанії ",
+            "text": "При редизайні сайту фармакологічної компанії, команда зосередилася на створенні привабливого та сучасного вигляду, щоб відображати інноваційність та професіоналізм компанії. В процесі роботи ми використовували корпоративні кольори компанії, щоб створити єдиний стиль та брендову ідентичність.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686224002/SoftRyzen/pharmCompany/mikpoximPortfolio_wailwr.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/pharm-company"
+        }
+    ],
+    "worksPortfolioPage": [
+        {
+            "title": "Головний сайт GoIT Global",
+            "text": "Розробка багатосторінкового сайта компанії  GoIT Group  з декількома іноземними локалями.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275540/SoftRyzen/GoIT/portfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/goit"
+        },
+        {
+            "title": "Редизайн сайту фармкомпанії ",
+            "text": "При редизайні сайту фармакологічної компанії, команда зосередилася на створенні привабливого та сучасного вигляду, щоб відображати інноваційність та професіоналізм компанії. В процесі роботи ми використовували корпоративні кольори компанії, щоб створити єдиний стиль та брендову ідентичність.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686224002/SoftRyzen/pharmCompany/mikpoximPortfolio_wailwr.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/pharm-company"
+        },
+        {
+            "title": "Онлайн-магазин MicroGreen",
+            "text": "При розробці сайту команда фокусувалася на створенні привабливого та інтуїтивно зрозумілого інтерфейсу. Основною задачею було створення привітного та професійного образу бренду, використовуючи яскраві кольори, привабливі фотографії мікрозелені та елегантні шрифти. Особлива увага була приділена зручності навігації та швидкому доступу до інформації.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686223975/SoftRyzen/storeMigrogreen/migrogreenPortfolio_wtpmxc.png",
+            "link": "portfolio/store-migrogreen"
+        },
+        {
+            "title": "Сайт 3D екстер’єру та інтер’єру",
+            "text": "В роботі ми зосередилися на створенні вражаючого та ефективного дизайну, що підкреслює високу якість та професіоналізм послуг компанії. Максимально використали можливості візуальних елементів, щоб демонструвати здатності компанії з точністю відтворювати деталі екстер'єру та створювати реалістичні візуалізації, залучаючи потенційних клієнтів та зацікавлюючи їх.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686571361/SoftRyzen/exteriorVisualization/jazzRenderPortfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/exterior-visualization"
+        },
+        {
+            "title": "Сайт для майбутніх мам",
+            "text": "В роботі ми зосередилися на створенні зручного веб-застосунку для жінок, які прагнуть отримати корисну інформацію щодо здорового способу життя під час вагітності або при плануванні вагітності.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275540/SoftRyzen/Pregnancy/portfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/pregnancy"
+        },
+        {
+            "title": "Сайт курсу Phython GoITeens",
+            "text": "Результатом роботи є створення сторінки онлайн-курсу Phyton для дітей зі зручним інтерфейсом, анімаціями.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275540/SoftRyzen/GoIteens/portfolio.png",
+            "imagePosition": "center-top",
+            "link": "portfolio/goiteens"
+        },
+        {
+            "title": "Сайт IT-хакатону GoITeens",
+            "text": "Результатом роботи є створення Langing Page під запланований захід - онлайн марафон ",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687443083/SoftRyzen/hackathon/portfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/hackathon"
+        },
+        {
+            "title": "Сайт для ознайомлення з курсом на Skillseter",
+            "text": "Результатом роботи є створення Langing Page під захід Black Friday.",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687443083/SoftRyzen/skillseter/portfolio.png",
+            "imagePosition": "left-top",
+            "link": "portfolio/skillseter"
+        },
+        {
+            "title": "Студія дизайну інтер’єру",
+            "text": "Розробка сайту в мінімалістичному сучасному стилі для студії дизайну інтер’єру Interio. Interio - це українська студія дизайну інтер'єру, яка складається з команди молодих та креативних дизайнерів, архітекторів, які спеціалізуються на створенні концепцій сучасного інтер'єру ...",
+            "image": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686224024/SoftRyzen/interiorDesign/interiorPortfolio_dk8s0c.png",
+            "link": "portfolio/interior-design"
+        }
+    ],
+    "workLink": "Деталі проєкту",
+    "portfolioLink": "Дивитися більше"
+}

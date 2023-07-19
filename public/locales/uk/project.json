@@ -1,0 +1,1590 @@
+{
+    "projects": [
+        {
+            "name": "GoIT",
+            "link": "goit",
+            "hero": {
+                "breadcrumbs": "Goit",
+                "title": "Головний сайт GoIT Global",
+                "text": "Розробка багатосторінкового сайта компанії  GoIT Group  з декількома іноземними локалями",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/Desktop.png",
+                "desktopImageAlt": "Веб-сайт Гоуайті дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIT/Mobile.png",
+                "mobileImageAlt": "Веб-сайт Гоуайті дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Проєкт реалізований з використанням широкого спектру технологій і інструментів. Побудований на основі Roots Ecosystem, яка включає в себе Roots Acorn (базовий фреймворк на основі Laravel) та Bedrock structure WordPress, що надає зручні інструменти для розробки та управління веб-проектами. Для реалізації функціональності на стороні клієнта було використано jQuery та сучасний стандарт JavaScript ES6+.Для покращення продуктивності та швидкості завантаження сторінок використовувалася стратегія трьох рівнів кешування."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/tailwind-color.svg",
+                            "alt": "кольорова іконка tailwind технології"
+                        },
+                        {
+                            "src": "/images/technologies/jquery-color.svg",
+                            "alt": "кольорова іконка jquery технології"
+                        },
+                        {
+                            "src": "/images/technologies/js-color.svg",
+                            "alt": "кольорова іконка js технології"
+                        },
+                        {
+                            "src": "/images/technologies/wordpress-color.svg",
+                            "alt": "кольорова іконка wordpress технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Необхідність створення багатосторінкового сайту з різними іноземними локалями.",
+                        "Підключення зручної CRM-системи."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Для підтримки багатомовності на сайті було використано WPML - плагін для WordPress, що дозволяє створювати та керувати мовними версіями контенту, а для полегшення роботи з адмін-панеллю WordPress і створення гнучких контентних блоків було використано плагін Advanced Custom Fields (ACF).",
+                        "Інтеграція з Zoho CRM дозволяє забезпечити ефективне управління клієнтськими відносинами та обробку даних з використанням цієї CRM-системи."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/1.png",
+                "framesDiagonalAlt": "Приклад дизайну Гоуайті веб-сайту представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIT/phones.png",
+                "phonesAlt": "Приклад дизайну Гоуайті веб-сайту представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/3.png",
+                "tabletsAlt": "Приклад дизайну Гоуайті веб-сайту представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/5.png",
+                "framesLargeAlt": "Приклад дизайну Гоуайті веб-сайту представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/4.png",
+                "framesSmallAlt": "Приклад дизайну Гоуайті веб-сайту представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIT/user_flow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1500",
+                    "height": "1077"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Montserrat/AaMontserrat.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Montserrat/Montserrat.svg",
+                                "alt": "назва шрифту Montserrat"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/Montserrat/alphabetMontserrat.svg",
+                                "alt": "Абетка шрифтом Montserrat"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #254EB6",
+                            "color": "#254EB6"
+                        },
+                        {
+                            "label": "Зразок коліру #FF6B0A",
+                            "color": "#FF6B0A"
+                        },
+                        {
+                            "label": "Зразок коліру #010101",
+                            "color": "#010101"
+                        },
+                        {
+                            "label": "Зразок коліру #FAFAFA",
+                            "color": "#FAFAFA"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/screen_1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/screen_3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIT/screen_4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "pharmCompany",
+            "link": "pharm-company",
+            "hero": {
+                "breadcrumbs": "Мікрохім",
+                "title": "Фармкомпанія Мікрохім",
+                "text": "Редизайн багатосторінкового сайту фарм компанії та розробка необхідного функціоналу для взаємодії з клієнтами.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244230/SoftRyzen/pharmCompany/projectDesktop.png",
+                "desktopImageAlt": "Веб-сайт Мікрохім дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244230/SoftRyzen/pharmCompany/projectMobile.png",
+                "mobileImageAlt": "Веб-сайт Мікрохім дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Ідея проєкту - створення ефективного та зручного засобу для комунікації з цільовою аудиторією. Зрозумілі та легкодоступні контактні дані, форми зворотного зв'язку, чат-боти, блоги і розділи зі звітами про дослідження та новинами. Мета - допомогти відвідувачам сайту швидко знайти потрібну інформацію та ефективно взаємодіяти з компанією."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/figma-color.svg",
+                            "alt": "кольорова іконка figma технології"
+                        },
+                        {
+                            "src": "/images/technologies/ps-color.svg",
+                            "alt": "кольорова іконка photoshop технології"
+                        },
+                        {
+                            "src": "/images/technologies/ai-color.svg",
+                            "alt": "кольорова іконка ai технології"
+                        },
+                        {
+                            "src": "/images/technologies/react-color.svg",
+                            "alt": "кольорова іконка react технології"
+                        },
+                        {
+                            "src": "/images/technologies/node-color.svg",
+                            "alt": "кольорова іконка node технології"
+                        },
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Необхідність покращити досвід користувача у відвіданні сайту та зробити його доступним для людей із вадами зору.",
+                        "Необхідність зробити сайт сучаним та близьким до користувача з використанням брендових кольорів."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Оновлений дизайн забезпечує покращення зручності користування інтерфейсом для відвідувачів сайту. Розробка навігації та пошуку сприяє забезпеченню швидкого доступу до інформації та зменшенню кількості кроків, необхідних для здійснення певних дій. Адаптація сайту для людей із вадами зору покращує користування всіма категоріями людей.",
+                        "Підкреслена індивідуальність компанії, створена впізнаваність та підсилення бренду. Естетика та кольори відображають цінності компанії та її пріоритети."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244231/SoftRyzen/pharmCompany/framesDiagonal.jpg",
+                "framesDiagonalAlt": "Веб-сайт Мікрохім дизайн представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211525/SoftRyzen/pharmCompany/phones.png",
+                "phonesAlt": "Веб-сайт Мікрохім дизайн представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244231/SoftRyzen/pharmCompany/tablets.jpg",
+                "tabletsAlt": "Веб-сайт Мікрохім дизайн представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244231/SoftRyzen/pharmCompany/framesLarge.jpg",
+                "framesLargeAlt": "Веб-сайт Мікрохім дизайн представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244231/SoftRyzen/pharmCompany/framesSmall.jpg",
+                "framesSmallAlt": "Веб-сайт Мікрохім дизайн представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686217964/SoftRyzen/pharmCompany/userFlow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1775",
+                    "height": "578"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211720/SoftRyzen/fonts/Montserrat/AaMontserrat.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211720/SoftRyzen/fonts/Montserrat/Montserrat.svg",
+                                "alt": "назва шрифту Montserrat"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211720/SoftRyzen/fonts/Montserrat/alphabetMontserrat.svg",
+                                "alt": "Абетка шрифтом Montserrat"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #D70000",
+                            "color": "#D70000"
+                        },
+                        {
+                            "label": "Зразок коліру #FF3E3E",
+                            "color": "#FF3E3E"
+                        },
+                        {
+                            "label": "Зразок коліру #282828",
+                            "color": "#282828"
+                        },
+                        {
+                            "label": "Зразок коліру #CECECE",
+                            "color": "#CECECE"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213619/SoftRyzen/pharmCompany/screen-1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213619/SoftRyzen/pharmCompany/screen-2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213619/SoftRyzen/pharmCompany/screen-3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213619/SoftRyzen/pharmCompany/screen-4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "text",
+                        "review": "Компанія Мікрохім — українська фармацевтична компанія з 30-річним досвідом. У лютому 2023 року в компанії відбувся ребрендинг, тому ми звернулись до компанії “SoftRyzen” із задачею оновити сайт відповідно до нового зовнішнього вигляду бренду та його бренд-платформи. Також попередній сайт компанії був технічно застарілим, тому потрібно було створювати його по суті з нуля. Для нашої компанії сайт — це в першу чергу іміджевий канал комунікації, який надає користувачам розгорнуту інформацію про діяльність компанії та каталог продукції, тому дуже важливо було зробити його зручним та зрозумілим для користувача. Крім того, є певне розмежування доступу до інформації на сайті для співробітників системи охорони здоров’я та кінцевого споживача, відповідно до чинного законодавства, що було принципово важливо передбачити в роботі сайту. Команда SoftRyzen реалізувала всі наші побажання, результат повністю відповідає очікуванням. Крім того, ми дуже хотіли, аби сайт відповідав інклюзивним стандартам, тому SoftRyzen реалізувала версію сайту для людей із вадами зору.",
+                        "author": {
+                            "photo": "/images/feedbacks/authors/mickrokhim.jpg",
+                            "name": "Назаренко Дар'я",
+                            "position": "Керівник відділу комунікацій",
+                            "company": "Мікрохім",
+                            "socials": {
+                                "linkedin": "https://www.linkedin.com/in/darianazarenko/"
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "interiorDesign",
+            "link": "interior-design",
+            "hero": {
+                "breadcrumbs": "Студія інтер’єру",
+                "title": "Студія дизайну інтер’єру",
+                "text": "Мінімалістичний сучасний стиль для студії дизайну інтер'єру Interio. Розробка сайту, що втілює в собі висококваліфікований дизайн інтер'єру та інноваційні рішення.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/projectDesktop.png",
+                "desktopImageAlt": "Веб-сайт Інтеріор дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/projectMobile.png",
+                "mobileImageAlt": "Веб-сайт Інтеріор дизайн на телефоні.",
+                "behanceLink": "https://www.behance.net/gallery/161338427/Interio-Interior-design-studio",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Розробка сайту в мінімалістичному сучасному стилі для студії дизайну інтер’єру Interio. Interio — це українська інтер’єрна студія дизайну, яка складається з команди молодих та креативних дизайнерів, архітекторів, які спеціалізуються на створенні концепцій сучасних інтер’єрних рішень та їх подальшій реалізації."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/figma-color.svg",
+                            "alt": "кольорова іконка figma технології"
+                        },
+                        {
+                            "src": "/images/technologies/ps-color.svg",
+                            "alt": "кольорова іконка photoshop технології"
+                        },
+                        {
+                            "src": "/images/technologies/ai-color.svg",
+                            "alt": "кольорова іконка ai технології"
+                        },
+                        {
+                            "src": "/images/technologies/react-color.svg",
+                            "alt": "кольорова іконка react технології"
+                        },
+                        {
+                            "src": "/images/technologies/node-color.svg",
+                            "alt": "кольорова іконка node технології"
+                        },
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Відсутність нових клієнтів в інтернеті навіть за наявності хорошої реклами та трендових проєктів у портфоліо.",
+                        "Веб-сайт компанії не актуальний і не відповідає сучасним тенденціям."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Створення сайту, який став візиткою студії дизайну Interio, за допомогою якого потенційні клієнти можуть познайомитися з духом Intrerio, перевагами роботи з ними, їх підходом до процесу, проєктами та командою. Смак студії в дизайні інтер’єру передано через сам веб-сайт.",
+                        "Модернізація дизайну веб-сайту, враховуючи сучасні тенденції і вимоги користувачів. Створення зручної навігації, привабливих візуальних ефектів."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/framesDiagonal.jpg",
+                "framesDiagonalAlt": "Веб-сайт Інтеріор дизайн представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/phones.jpg",
+                "phonesAlt": "Веб-сайт Інтеріор дизайн представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243308/SoftRyzen/interiorDesign/tablets.png",
+                "tabletsAlt": "Веб-сайт Інтеріор дизайн представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/framesLarge.jpg",
+                "framesLargeAlt": "Веб-сайт Інтеріор дизайн представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243307/SoftRyzen/interiorDesign/framesSmall.jpg",
+                "framesSmallAlt": "Веб-сайт Інтеріор дизайн представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686154864/SoftRyzen/interiorDesign/userFlow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1018",
+                    "height": "587"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209532/SoftRyzen/fonts/Fira-Sans/AaFiraSans.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209532/SoftRyzen/fonts/Fira-Sans/firaSans.svg",
+                                "alt": "назва шрифту Fira Sans"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209532/SoftRyzen/fonts/Fira-Sans/alphabetFiraSans.svg",
+                                "alt": "Абетка шрифтом Fira Sans"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209678/SoftRyzen/fonts/Roboto/AaRoboto.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209678/SoftRyzen/fonts/Roboto/Roboto.svg",
+                                "alt": "назва шрифту Roboto"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686209678/SoftRyzen/fonts/Roboto/alphabetRoboto.svg",
+                                "alt": "Абетка шрифтом Roboto"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #FEFEFE",
+                            "color": "#FEFEFE"
+                        },
+                        {
+                            "label": "Зразок коліру #D3D3D3",
+                            "color": "#D3D3D3"
+                        },
+                        {
+                            "label": "Зразок коліру #414141",
+                            "color": "#414141"
+                        },
+                        {
+                            "label": "Зразок коліру #151515",
+                            "color": "#151515"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213416/SoftRyzen/interiorDesign/screen-1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213415/SoftRyzen/interiorDesign/screen-2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213415/SoftRyzen/interiorDesign/screen-3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213417/SoftRyzen/interiorDesign/screen-4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "storeMigrogreen",
+            "link": "store-migrogreen",
+            "hero": {
+                "breadcrumbs": "MicroGreen",
+                "title": "Онлайн-магазин MicroGreen",
+                "text": "Концепція дизайну інтернет-магазину miсrogreen. Мікрозелень - це молоді пагони рослин, які використовуються як в їжу, так і для прикраси страв.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/projectDesktop.png",
+                "desktopImageAlt": "Веб-сайт Мікрогрін дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/projectMobile.png",
+                "mobileImageAlt": "Веб-сайт Мікрогрін дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Наш проєкт дизайну інтернет-магазину зосереджений на вирощуванні та продажу мікрозелені. Головною ідеєю було створення простого, естетичного та інтуїтивно зрозумілого інтерфейсу, який надихає клієнтів на вирощування своєї власної свіжої мікрозелені вдома."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/figma-color.svg",
+                            "alt": "кольорова іконка figma технології"
+                        },
+                        {
+                            "src": "/images/technologies/ps-color.svg",
+                            "alt": "кольорова іконка photoshop технології"
+                        },
+                        {
+                            "src": "/images/technologies/ai-color.svg",
+                            "alt": "кольорова іконка ai технології"
+                        },
+                        {
+                            "src": "/images/technologies/react-color.svg",
+                            "alt": "кольорова іконка react технології"
+                        },
+                        {
+                            "src": "/images/technologies/node-color.svg",
+                            "alt": "кольорова іконка node технології"
+                        },
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Необхідність додати свіжість та специфіку продажу даного ресурсу.",
+                        "Відсутність швидкого пошуку та навігації по сайту."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Створення зручного функціоналу, що дозволяє клієнтам швидко знайти потрібний вид мікрозелені, зробити замовлення та оплату в онлайн-режимі, а також забезпечити доставку свіжої мікрозелені прямо до дверей клієнта. Все це робить процес покупок максимально зручним та ефективним для наших клієнтів.",
+                        "Використання яскравих зображень процесу вирощування та свіжої мікрозелені допомагають створити привабливий дизайн для клієнтів."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/framesDiagonal.jpg",
+                "framesDiagonalAlt": "Веб-сайт Мікрогрін дизайн представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686210046/SoftRyzen/storeMigrogreen/phones.png",
+                "phonesAlt": "Веб-сайт Мікрогрін дизайн представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/tablets.jpg",
+                "tabletsAlt": "Веб-сайт Мікрогрін дизайн представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/framesLarge.jpg",
+                "framesLargeAlt": "Веб-сайт Мікрогрін дизайн представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686243798/SoftRyzen/storeMigrogreen/framesSmall.jpg",
+                "framesSmallAlt": "Веб-сайт Мікрогрін дизайн представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686571080/SoftRyzen/storeMigrogreen/userFlow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1555",
+                    "height": "587"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211287/SoftRyzen/fonts/Poiret-One/AaPoiretOne.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211287/SoftRyzen/fonts/Poiret-One/poiretOne.svg",
+                                "alt": "назва шрифту Poiret One"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211287/SoftRyzen/fonts/Poiret-One/alphabetPoiretOne.svg",
+                                "alt": "Абетка шрифтом Poiret One"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211389/SoftRyzen/fonts/Nunito-Sans/AaNunitoSans.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211389/SoftRyzen/fonts/Nunito-Sans/nunitoSans.svg",
+                                "alt": "назва шрифту Nunito Sans"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211389/SoftRyzen/fonts/Nunito-Sans/alphabetNunitoSans.svg",
+                                "alt": "Абетка шрифтом Nunito Sans"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #1B543F",
+                            "color": "#1B543F"
+                        },
+                        {
+                            "label": "Зразок коліру #B5B5B5",
+                            "color": "#B5B5B5"
+                        },
+                        {
+                            "label": "Зразок коліру #EDF2F0",
+                            "color": "#EDF2F0"
+                        },
+                        {
+                            "label": "Зразок коліру #FFFFFF",
+                            "color": "#FFFFFF"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213511/SoftRyzen/storeMigrogreen/screen-1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213511/SoftRyzen/storeMigrogreen/screen-2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213511/SoftRyzen/storeMigrogreen/screen-3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213511/SoftRyzen/storeMigrogreen/screen-4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "exteriorVisualization",
+            "link": "exterior-visualization",
+            "hero": {
+                "breadcrumbs": "JazzRender",
+                "title": "Сайт 3D візуалізації JazzRender",
+                "text": "Результатом нашої роботи є сайт студії архітектурної 3D візуалізації інтер'єрів з сучасним дизайном та зручним інтерфейсом.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244967/SoftRyzen/exteriorVisualization/projectDesktop.png",
+                "desktopImageAlt": "Веб-сайт Джас Рендер дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244967/SoftRyzen/exteriorVisualization/projectMobile.png",
+                "mobileImageAlt": "Веб-сайт Джас Рендер дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Вражаючий та ефективний дизайну, що підкреслює високу якість та професіоналізм послуг компанії. Використання візуальних елементів, щоб продемонструвати здатність компанії з точністю відтворювати деталі екстер'єру та створювати реалістичні візуалізації, залучаючи потенційних клієнтів та зацікавлюючи їх."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/figma-color.svg",
+                            "alt": "кольорова іконка figma технології"
+                        },
+                        {
+                            "src": "/images/technologies/ps-color.svg",
+                            "alt": "кольорова іконка photoshop технології"
+                        },
+                        {
+                            "src": "/images/technologies/ai-color.svg",
+                            "alt": "кольорова іконка ai технології"
+                        },
+                        {
+                            "src": "/images/technologies/react-color.svg",
+                            "alt": "кольорова іконка react технології"
+                        },
+                        {
+                            "src": "/images/technologies/node-color.svg",
+                            "alt": "кольорова іконка node технології"
+                        },
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Необхідність покращення спілкування та співпраці між замовником та виконавцем.",
+                        "Важливість створити правильну передачу тематики і візуалізації концепцій та проєктів."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Дизайн сайту створює ефективну платформу для спілкування та співпраці між дизайнерами та клієнтами. Він включає розділи для обміну ідеями, коментарями та фідбеком, які дозволять сторонам взаємодіяти на ранніх етапах проєкту та розуміти вимоги та побажання клієнтів.",
+                        "Дизайн сайту вирішує цю проблему візуалізації, надаючи можливість представити 3D-моделі та фотореалістичні рендеринги проєктів."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244968/SoftRyzen/exteriorVisualization/framesDiagonal.jpg",
+                "framesDiagonalAlt": "Веб-сайт Джас Рендер дизайн представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211818/SoftRyzen/exteriorVisualization/phones.png",
+                "phonesAlt": "Веб-сайт Джас Рендер дизайн представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244967/SoftRyzen/exteriorVisualization/tablets.jpg",
+                "tabletsAlt": "Веб-сайт Джас Рендер дизайн представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244968/SoftRyzen/exteriorVisualization/framesLarge.jpg",
+                "framesLargeAlt": "Веб-сайт Джас Рендер дизайн представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686244967/SoftRyzen/exteriorVisualization/framesSmall.png",
+                "framesSmallAlt": "Веб-сайт Джас Рендер дизайн представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686155744/SoftRyzen/exteriorVisualization/userFlow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1550",
+                    "height": "578"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211972/SoftRyzen/fonts/Lato/AaLato.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211972/SoftRyzen/fonts/Lato/Lato.svg",
+                                "alt": "назва шрифту Lato"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686211972/SoftRyzen/fonts/Lato/alphabetLato.svg",
+                                "alt": "Абетка шрифтом Lato"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #222222",
+                            "color": "#222222"
+                        },
+                        {
+                            "label": "Зразок коліру #585858",
+                            "color": "#585858"
+                        },
+                        {
+                            "label": "Зразок коліру #ABABAB",
+                            "color": "#ABABAB"
+                        },
+                        {
+                            "label": "Зразок коліру #D5D5D5",
+                            "color": "#D5D5D5"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213719/SoftRyzen/exteriorVisualization/screen-1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213719/SoftRyzen/exteriorVisualization/screen-2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213719/SoftRyzen/exteriorVisualization/screen-3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1686213719/SoftRyzen/exteriorVisualization/screen-4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Pregnancy",
+            "link": "pregnancy",
+            "hero": {
+                "breadcrumbs": "Pregnancy",
+                "title": "Сайт для майбутніх мам Pregnancy",
+                "text": "Веб-застосунок, основною метою створення якого було надання користувачкам, які планують вагітність та тим, хто вже вагітний, інформації та порад щодо стану здоровʼя",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/Desktop.png",
+                "desktopImageAlt": "Веб-сайт Прегнансі дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/Pregnancy/Mobile.png",
+                "mobileImageAlt": "Веб-сайт Прегнансі дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Проєкт створений із використанням таких технологій, як React, Tailwind, Node.js, що забезпечують швидкість завантаження та коректну роботу. Для швидкої реалізації розсилки інформаційних файлів підписницям при розробці веб-застосунку було інтегровано сервіс SendGrid. Для здійснення оплати у проєкт вбудована платіжна система Solidgate, що гарантує користувачам безпеку та зручність оплати підписки, а також сприяє досягненню бізнес-цілей власників продукту."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/tailwind-color.svg",
+                            "alt": "кольорова іконка tailwind технології"
+                        },
+                        {
+                            "src": "/images/technologies/react-color.svg",
+                            "alt": "кольорова іконка react технології"
+                        },
+                        {
+                            "src": "/images/technologies/node-color.svg",
+                            "alt": "кольорова іконка node технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Створення зручного веб-застосунку для жінок, які прагнуть отримати корисну інформацію щодо здорового способу життя під час вагітності або при плануванні вагітності.",
+                        "Підключення максимально зручної та надійної платіжної системи для оплати підписки."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Веб-застосунок містить опитування, на основі результатів яких для кожного користувача формуються персональні поради та пропозиції щодо здорового способу життя під час вагітності або ж при її плануванні. ",
+                        "Інтеграції платіжної системи Solidgate та підключення Subscription Management System надають безпеку та оплату через Apple Pay / PayPal."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/1.png",
+                "framesDiagonalAlt": "Веб-сайт Прегнансі дизайн представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/Pregnancy/phones.png",
+                "phonesAlt": "Веб-сайт Прегнансі дизайн представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/3.png",
+                "tabletsAlt": "Веб-сайт Прегнансі дизайн представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/screen_1.png",
+                "framesLargeAlt": "Веб-сайт Прегнансі дизайн представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/4.png",
+                "framesSmallAlt": "Веб-сайт Прегнансі дизайн представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/Pregnancy/user_flow.png",
+                    "alt": "зображення User Flow",
+                    "width": "823",
+                    "height": "1028"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Righteous/AaRighteous.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Righteous/Righteous.svg",
+                                "alt": "назва шрифту Righteous"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/Righteous/alphabetRighteous.svg",
+                                "alt": "Абетка шрифтом Righteous"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273576/SoftRyzen/fonts/Nutiro/AaNunito.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273576/SoftRyzen/fonts/Nutiro/Nunito.svg",
+                                "alt": "назва шрифту NUNITO"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273576/SoftRyzen/fonts/Nutiro/alphabetNunito.svg",
+                                "alt": "Абетка шрифтом NUNITO"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #815EDB",
+                            "color": "#815EDB"
+                        },
+                        {
+                            "label": "Зразок коліру #EED2D2",
+                            "color": "#EED2D2"
+                        },
+                        {
+                            "label": "Зразок коліру #202420",
+                            "color": "#202420"
+                        },
+                        {
+                            "label": "Зразок коліру #C1BDBD",
+                            "color": "#C1BDBD"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/screen_1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/screen_3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/Pregnancy/screen_4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "video",
+                        "review": "https://youtu.be/CMf0bJGuT90",
+                        "image": "/images/feedbacks/authors/placeholderEugene.png",
+                        "author": {
+                            "photo": "/images/feedbacks/authors/Eugene_Rutitskiy.png",
+                            "name": "Євген Рутицький",
+                            "position": "CEO",
+                            "company": "Pregnancy.camp",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": "фотографія по замовчуванню"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "GoITeens",
+            "link": "goiteens",
+            "hero": {
+                "breadcrumbs": "GoITeens",
+                "title": "Сайт курсу Phyton GoITeens",
+                "text": "Результатом роботи є створення сторінки онлайн-курсу Phyton для дітей зі зручним інтерфейсом, анімаціями",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/Desktop.png",
+                "desktopImageAlt": "Веб-сайт Гоуайтінс дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIteens/Mobile.png",
+                "mobileImageAlt": "Веб-сайт Гоуайтінс дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Сторінка створена із використанням стандартних веб-технологій HTML 5 i CSS 3, Sass(SCSS), збірка Gulp, JS(JQuery). Написано за методологiєю БЕМ, що дало можливiсть робити компоненти інтерфейсу, які розширюються і повторно використовуються. Інтегрованi стороннi бiблiотеки  Swiper-slider, GSAP-animation. Back-end написаний на PHP з використанням CMS Wordpress, а також глобальним eCommerce плагiном Woocommerce. Також було застосовано плагiн ACF, для покращеної роботи з адмін-панеллю Wordpress та розробки flexible-content блокiв."
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/jquery-color.svg",
+                            "alt": "кольорова іконка jquery технології"
+                        },
+                        {
+                            "src": "/images/technologies/js-color.svg",
+                            "alt": "кольорова іконка js технології"
+                        },
+                        {
+                            "src": "/images/technologies/php-color.svg",
+                            "alt": "кольорова іконка php технології"
+                        },
+                        {
+                            "src": "/images/technologies/wordpress-color.svg",
+                            "alt": "кольорова іконка wordpress технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Створення зручної адмін-панелі з метою надання  можливості  керування сторінкою.",
+                        "Створення цікавої сторінки  онлайн-курсу для дітей та підлітків."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Написання Back-end сторінки  з використанням CMS Wordpress, а також  застосованням плагiна ACF, для покращеної роботи з адмін-панеллю Wordpress та розробки flexible-content блокiв, надає замовнику  можливість оперативно вносити зміни в контент сторінки без залучення розробників.",
+                        "Сторінка розроблена з використанням бiблiотек  Swiper-slider, GSAP-animation, що надало більшої інтерактивності та зручності ознайомлення з інформацією."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/1.png",
+                "framesDiagonalAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIteens/phones.png",
+                "phonesAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/3.png",
+                "tabletsAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/5.png",
+                "framesLargeAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/4.png",
+                "framesSmallAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/GoIteens/user_flow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1500",
+                    "height": "612"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-Mono/AaIBMMono.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-Mono/IBMMono.svg",
+                                "alt": "назва шрифту IBM Mono"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/ibm-Mono/alphabetIBMMono.svg",
+                                "alt": "Абетка шрифтом IBM Mono"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-sans/AaIBMSans.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-sans/IBMSans.svg",
+                                "alt": "назва шрифту Montserrat"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/ibm-sans/alphabetIBMSans.svg",
+                                "alt": "Абетка шрифтом Montserrat"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #FEC830",
+                            "color": "#FEC830"
+                        },
+                        {
+                            "label": "Зразок коліру #5331B2",
+                            "color": "#5331B2"
+                        },
+                        {
+                            "label": "Зразок коліру #1A1A1A",
+                            "color": "#1A1A1A"
+                        },
+                        {
+                            "label": "Зразок коліру #474747",
+                            "color": "#474747"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/screen_1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/screen_3.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/GoIteens/screen_4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "IT-hackathon",
+            "link": "hackathon",
+            "hero": {
+                "breadcrumbs": "IT-hackathon",
+                "title": "Сайт IT-хакатону GoITeens",
+                "text": "Результатом роботи є створення Langing Page під запланований захід - онлайн марафон.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/Desktop.png",
+                "desktopImageAlt": "Веб-сайт Гоуайтінс дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/hackathon/Mobile.png",
+                "mobileImageAlt": "Веб-сайт Гоуайтінс дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Сторінка створена із використанням стандартних веб-технологій HTML/CSS , Sass(SCSS), збірка Gulp, JS, JQuery. "
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/jquery-color.svg",
+                            "alt": "кольорова іконка jquery технології"
+                        },
+                        {
+                            "src": "/images/technologies/js-color.svg",
+                            "alt": "кольорова іконка js технології"
+                        },
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        },
+                        {
+                            "src": "/images/technologies/sass-color.svg",
+                            "alt": "кольорова іконка sass технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Підключення зручної CRM-системи для максимальної обробки  контактів, що зареєструвались на захід, з обранням відповідного напрямку.",
+                        "Можливість перегляду всього переліку напрямків, спікерів та програми заходу."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Інтеграція з Zoho CRM та Leeloo.",
+                        "Бібліотека  jquery.marquee дозволила компактно та візуально яскраво розмістити значний перелік інформації у відповідних слайдерах."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/1.png",
+                "framesDiagonalAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/hackathon/2.png",
+                "phonesAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/3.png",
+                "tabletsAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/5.png",
+                "framesLargeAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/4.png",
+                "framesSmallAlt": "Приклад дизайну Гоуайтінс веб-сайту представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/hackathon/user_flow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1103",
+                    "height": "1077"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-Mono/AaIBMMono.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-Mono/IBMMono.svg",
+                                "alt": "назва шрифту IBM Mono"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/ibm-Mono/alphabetIBMMono.svg",
+                                "alt": "Абетка шрифтом IBM Mono"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-sans/AaIBMSans.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/ibm-sans/IBMSans.svg",
+                                "alt": "назва шрифту IBM Sans"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/ibm-sans/alphabetIBMSans.svg",
+                                "alt": "Абетка шрифтом IBM Sans"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #0052F1",
+                            "color": "#0052F1"
+                        },
+                        {
+                            "label": "Зразок коліру #5331B2",
+                            "color": "#5331B2"
+                        },
+                        {
+                            "label": "Зразок коліру #FEC830",
+                            "color": "#FEC830"
+                        },
+                        {
+                            "label": "Зразок коліру #1A1A1A",
+                            "color": "#1A1A1A"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/screen_1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/hackathon/screen_4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Skillseter",
+            "link": "skillseter",
+            "hero": {
+                "breadcrumbs": "Skillseter",
+                "title": "Сайт для ознайомлення з курсом на Skillseter",
+                "text": "Результатом роботи є створення Langing Page під захід Black Friday.",
+                "desktopImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/Desktop.png",
+                "desktopImageAlt": "Веб-сайт Скілсетер дизайн на десктопі.",
+                "mobileImage": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/skillseter/Mobile.png",
+                "mobileImageAlt": "Веб-сайт Скілсетер дизайн на телефоні.",
+                "behanceLink": "",
+                "learnMoreLink": "Дізнатися більше"
+            },
+            "projectAbout": {
+                "aboutChapter": {
+                    "title": "Про проєкт",
+                    "text": "Сторінка створена із використанням стандартних веб-технологій HTML/CSS , Sass(SCSS), збірка Gulp, JS, JQuery, Slick-slider"
+                },
+                "technologiesChapter": {
+                    "title": "Технології",
+                    "technologies": [
+                        {
+                            "src": "/images/technologies/html-color.svg",
+                            "alt": "кольорова іконка html технології"
+                        },
+                        {
+                            "src": "/images/technologies/css-color.svg",
+                            "alt": "кольорова іконка css технології"
+                        },
+                        {
+                            "src": "/images/technologies/sass-color.svg",
+                            "alt": "кольорова іконка sass технології"
+                        },
+                        {
+                            "src": "/images/technologies/jquery-color.svg",
+                            "alt": "кольорова іконка jquery технології"
+                        },
+                        {
+                            "src": "/images/technologies/js-color.svg",
+                            "alt": "кольорова іконка js технології"
+                        }
+                    ]
+                }
+            },
+            "projectProblems": {
+                "problem": {
+                    "title": "Проблема",
+                    "list": [
+                        "Створити привабливий дизайн для найвигіднішого вивсітлення маркетингової події.",
+                        "Баланс між великою кількістю контенту та підтримкою уваги користувача."
+                    ]
+                },
+                "solution": {
+                    "title": "Рішення",
+                    "list": [
+                        "Для подолання цієї проблеми  використовували привабливі кольори, які відповідають стилю бренду та настрою заходу Black Friday. Збалансували макет сторінки, розмістивши графіку, текст та інші елементи в гармонійний спосіб.",
+                        "Використання чіткого шрифту, візуальної ієрархії та відступів, розділення на чіткі блоки. Візуально і змістовго акценти саме на маркетинговій події та знижці."
+                    ]
+                }
+            },
+            "screensAndAnimation": {
+                "framesDiagonal": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/1.png",
+                "framesDiagonalAlt": "Приклад дизайну Скілсетер веб-сайту представлений у діагональній рамці",
+                "phones": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/skillseter/2.png",
+                "phonesAlt": "Приклад дизайну Скілсетер веб-сайту представлений у багатьох телефонах",
+                "tablets": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/3.png",
+                "tabletsAlt": "Приклад дизайну Скілсетер веб-сайту представлений у трьох планшетах",
+                "framesLarge": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/5.png",
+                "framesLargeAlt": "Приклад дизайну Скілсетер веб-сайту представлений у великих рамках",
+                "framesSmall": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/4.png",
+                "framesSmallAlt": "Приклад дизайну Скілсетер веб-сайту представлений у малих рамках"
+            },
+            "projectUserFlow": {
+                "title": "User Flow",
+                "imageUserFlow": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275539/SoftRyzen/skillseter/user_flow.png",
+                    "alt": "зображення User Flow",
+                    "width": "1500",
+                    "height": "668"
+                }
+            },
+            "projectTypography": {
+                "typography": {
+                    "title": "Типографіка",
+                    "imagesGroups": [
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Montserrat/AaMontserrat.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/Montserrat/Montserrat.svg",
+                                "alt": "назва шрифту Montserrat"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/Montserrat/alphabetMontserrat.svg",
+                                "alt": "Абетка шрифтом Montserrat"
+                            }
+                        },
+                        {
+                            "bigSmallLetterImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/inter/AaInter.svg",
+                                "alt": "Заголовна і прописна буква а"
+                            },
+                            "fontStyleImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273600/SoftRyzen/fonts/inter/Inter.svg",
+                                "alt": "назва шрифту Inter"
+                            },
+                            "alphabetImg": {
+                                "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687273603/SoftRyzen/fonts/inter/alphabetInter.svg",
+                                "alt": "Абетка шрифтом Inter"
+                            }
+                        }
+                    ]
+                },
+                "colors": {
+                    "title": "Color",
+                    "colorsList": [
+                        {
+                            "label": "Зразок коліру #FF54C2",
+                            "color": "#FF54C2"
+                        },
+                        {
+                            "label": "Зразок коліру #1660EF",
+                            "color": "#1660EF"
+                        },
+                        {
+                            "label": "Зразок коліру #101014",
+                            "color": "#101014"
+                        },
+                        {
+                            "label": "Зразок коліру #F9F9F9",
+                            "color": "#F9F9F9"
+                        }
+                    ]
+                }
+            },
+            "projectScreens": {
+                "firstImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/screen_1.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "secondImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "thirdImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/screen_2.png",
+                    "alt": "фото дизайну сайту"
+                },
+                "fourthImage": {
+                    "src": "https://res.cloudinary.com/deetb5ddj/image/upload/v1687275538/SoftRyzen/skillseter/screen_4.png",
+                    "alt": "фото дизайну сайту"
+                }
+            },
+            "projectFeedbacks": {
+                "title": "Відгуки",
+                "titleExtended": "Відгук замовника",
+                "feedbacks": [
+                    {
+                        "type": "",
+                        "review": "",
+                        "author": {
+                            "photo": "",
+                            "name": "",
+                            "position": "",
+                            "company": "",
+                            "socials": {
+                                "linkedin": ""
+                            }
+                        },
+                        "defaultValue": {
+                            "photoAlt": ""
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "logo": {
+        "aria": "Logo site"
+    },
+    "home": "Main",
+    "about-us": "About us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "reviews": "Reviews",
+    "contacts": "Contacts",
+    "privacy-policy": "Privacy policy",
+    "close": "",
+    "notifyTitle": {
+        "success": "Success",
+        "error": "Error"
+    },
+    "notifyText": {
+        "success": "Your request has been sent",
+        "error": "Try again later"
+    }
+}
